@@ -1,9 +1,9 @@
 {
   "$schema": "file:///D:/TestRoot3/schemas/ServerMetaSchema.schema.json",
   "meta": {
-    "version": "",
+    "version": "1.0.0",
     "name": "Coral (Minecraft 26.1.2)",
-    "description": "Coral Running Minecraft 26.1.2",
+    "description": "Coral Running Minecraft 26.1.2 (Fabric v0.19.3)",
     "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
     "address": "localhost:25565",
     "discord": {
@@ -13,6 +13,9 @@
     },
     "mainServer": false,
     "autoconnect": false
+  },
+  "fabric": {
+    "version": "0.19.3"
   },
   "untrackedFiles": []
 }
