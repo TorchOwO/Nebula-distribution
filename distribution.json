@@ -1,0 +1,106 @@
+{
+  "version": "1.0.0",
+  "rss": "<LINK TO RSS FEED>",
+  "discord": {
+    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+  },
+  "servers": [
+    {
+      "id": "Coral-26.1.2",
+      "name": "Coral (Minecraft 26.1.2)",
+      "description": "Coral Running Minecraft 26.1.2",
+      "icon": null,
+      "version": "",
+      "address": "localhost:25565",
+      "minecraftVersion": "26.1.2",
+      "discord": {
+        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      },
+      "mainServer": false,
+      "autoconnect": false,
+      "modules": [
+        {
+          "id": "iris-excluded.json",
+          "name": "iris-excluded.json",
+          "type": "File",
+          "artifact": {
+            "size": 31,
+            "url": "http://localhost:8080/servers/Coral-26.1.2/files/config/iris-excluded.json",
+            "MD5": "670592b1394f12ab96d8432f14ac8dd9",
+            "path": "config/iris-excluded.json"
+          }
+        },
+        {
+          "id": "iris.properties",
+          "name": "iris.properties",
+          "type": "File",
+          "artifact": {
+            "size": 312,
+            "url": "http://localhost:8080/servers/Coral-26.1.2/files/config/iris.properties",
+            "MD5": "30bcae8e163b64c757d42ad0b4cb7fdb",
+            "path": "config/iris.properties"
+          }
+        },
+        {
+          "id": "sodium-fingerprint.json",
+          "name": "sodium-fingerprint.json",
+          "type": "File",
+          "artifact": {
+            "size": 427,
+            "url": "http://localhost:8080/servers/Coral-26.1.2/files/config/sodium-fingerprint.json",
+            "MD5": "50f6c82869ff33d5e94d5ca784fc873a",
+            "path": "config/sodium-fingerprint.json"
+          }
+        },
+        {
+          "id": "sodium-mixins.properties",
+          "name": "sodium-mixins.properties",
+          "type": "File",
+          "artifact": {
+            "size": 258,
+            "url": "http://localhost:8080/servers/Coral-26.1.2/files/config/sodium-mixins.properties",
+            "MD5": "a5b6a84e034d60be869ae33f2dba4e2b",
+            "path": "config/sodium-mixins.properties"
+          }
+        },
+        {
+          "id": "sodium-options.json",
+          "name": "sodium-options.json",
+          "type": "File",
+          "artifact": {
+            "size": 818,
+            "url": "http://localhost:8080/servers/Coral-26.1.2/files/config/sodium-options.json",
+            "MD5": "57a5544df3e1ecbb5ea49b0574850cf6",
+            "path": "config/sodium-options.json"
+          }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 5325,
+            "url": "http://localhost:8080/servers/Coral-26.1.2/files/options.txt",
+            "MD5": "e2a6e089a9c896846ef0ee0827796043",
+            "path": "options.txt"
+          }
+        },
+        {
+          "id": "ComplementaryReimagined-main.zip",
+          "name": "ComplementaryReimagined-main.zip",
+          "type": "File",
+          "artifact": {
+            "size": 540625,
+            "url": "http://localhost:8080/servers/Coral-26.1.2/files/shaderpacks/ComplementaryReimagined-main.zip",
+            "MD5": "441b72bc3c7bac6963f95ff02b3ae2a4",
+            "path": "shaderpacks/ComplementaryReimagined-main.zip"
+          }
+        }
+      ]
+    }
+  ]
+}
