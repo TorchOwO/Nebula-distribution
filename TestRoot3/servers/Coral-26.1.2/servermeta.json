@@ -1,0 +1,18 @@
+{
+  "$schema": "file:///D:/TestRoot3/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "",
+    "name": "Coral (Minecraft 26.1.2)",
+    "description": "Coral Running Minecraft 26.1.2",
+    "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
+    "address": "localhost:25565",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": false,
+    "autoconnect": false
+  },
+  "untrackedFiles": []
+}
