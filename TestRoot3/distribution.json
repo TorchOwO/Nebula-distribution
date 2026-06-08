@@ -29,7 +29,7 @@
           "type": "File",
           "artifact": {
             "size": 31,
-            "url": "http://localhost:8080/servers/Coral-26.1.2/files/config/iris-excluded.json",
+            "url": "https://raw.githubusercontent.com/TorchOwO/Nebula-distribution/refs/heads/main/TestRoot3/servers/Coral-26.1.2/files/config/iris-excluded.json",
             "MD5": "670592b1394f12ab96d8432f14ac8dd9",
             "path": "config/iris-excluded.json"
           }
@@ -40,7 +40,7 @@
           "type": "File",
           "artifact": {
             "size": 312,
-            "url": "http://localhost:8080/servers/Coral-26.1.2/files/config/iris.properties",
+            "url": "https://raw.githubusercontent.com/TorchOwO/Nebula-distribution/refs/heads/main/TestRoot3/servers/Coral-26.1.2/files/config/iris.properties",
             "MD5": "30bcae8e163b64c757d42ad0b4cb7fdb",
             "path": "config/iris.properties"
           }
@@ -51,7 +51,7 @@
           "type": "File",
           "artifact": {
             "size": 427,
-            "url": "http://localhost:8080/servers/Coral-26.1.2/files/config/sodium-fingerprint.json",
+            "url": "https://raw.githubusercontent.com/TorchOwO/Nebula-distribution/refs/heads/main/TestRoot3/servers/Coral-26.1.2/files/config/sodium-fingerprint.json",
             "MD5": "50f6c82869ff33d5e94d5ca784fc873a",
             "path": "config/sodium-fingerprint.json"
           }
@@ -73,7 +73,7 @@
           "type": "File",
           "artifact": {
             "size": 818,
-            "url": "http://localhost:8080/servers/Coral-26.1.2/files/config/sodium-options.json",
+            "url": "https://raw.githubusercontent.com/TorchOwO/Nebula-distribution/refs/heads/main/TestRoot3/servers/Coral-26.1.2/files/config/sodium-mixins.properties",
             "MD5": "57a5544df3e1ecbb5ea49b0574850cf6",
             "path": "config/sodium-options.json"
           }
@@ -84,7 +84,7 @@
           "type": "File",
           "artifact": {
             "size": 2498064,
-            "url": "http://localhost:8080/servers/Coral-26.1.2/files/fabricmods/required/fabric-api-0.151.0+26.1.2.jar",
+            "url": "https://github.com/TorchOwO/Nebula-distribution/raw/refs/heads/main/TestRoot3/servers/Coral-26.1.2/files/fabricmods/required/fabric-api-0.151.0+26.1.2.jar",
             "MD5": "f0375f3f40da9ad359cb72eb2304d41e",
             "path": "fabricmods/required/fabric-api-0.151.0+26.1.2.jar"
           }
@@ -95,7 +95,7 @@
           "type": "File",
           "artifact": {
             "size": 2803860,
-            "url": "http://localhost:8080/servers/Coral-26.1.2/files/fabricmods/required/iris-fabric-1.10.9+mc26.1.1.jar",
+            "url": "https://github.com/TorchOwO/Nebula-distribution/raw/refs/heads/main/TestRoot3/servers/Coral-26.1.2/files/fabricmods/required/iris-fabric-1.10.9+mc26.1.1.jar",
             "MD5": "0037a947d04dd252c4348c16d271c6b2",
             "path": "fabricmods/required/iris-fabric-1.10.9+mc26.1.1.jar"
           }
@@ -106,7 +106,7 @@
           "type": "File",
           "artifact": {
             "size": 1844226,
-            "url": "http://localhost:8080/servers/Coral-26.1.2/files/fabricmods/required/sodium-fabric-0.8.12+mc26.1.2.jar",
+            "url": "https://github.com/TorchOwO/Nebula-distribution/raw/refs/heads/main/TestRoot3/servers/Coral-26.1.2/files/fabricmods/required/sodium-fabric-0.8.12+mc26.1.2.jar",
             "MD5": "0e23e1fa43b2b2ce7c8b7bb8e0bc0e54",
             "path": "fabricmods/required/sodium-fabric-0.8.12+mc26.1.2.jar"
           }
@@ -117,7 +117,7 @@
           "type": "File",
           "artifact": {
             "size": 5325,
-            "url": "http://localhost:8080/servers/Coral-26.1.2/files/options.txt",
+            "url": "https://raw.githubusercontent.com/TorchOwO/Nebula-distribution/refs/heads/main/TestRoot3/servers/Coral-26.1.2/files/options.txt",
             "MD5": "e2a6e089a9c896846ef0ee0827796043",
             "path": "options.txt"
           }
@@ -128,7 +128,7 @@
           "type": "File",
           "artifact": {
             "size": 540625,
-            "url": "http://localhost:8080/servers/Coral-26.1.2/files/shaderpacks/ComplementaryReimagined-main.zip",
+            "url": "https://github.com/TorchOwO/Nebula-distribution/raw/refs/heads/main/TestRoot3/servers/Coral-26.1.2/files/shaderpacks/ComplementaryReimagined-main.zip",
             "MD5": "441b72bc3c7bac6963f95ff02b3ae2a4",
             "path": "shaderpacks/ComplementaryReimagined-main.zip"
           }
