@@ -1,0 +1,141 @@
+{
+  "version": "1.0.0",
+  "rss": "<LINK TO RSS FEED>",
+  "discord": {
+    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+  },
+  "servers": [
+    {
+      "id": "Coral-26.1.2",
+      "name": "Coral (Minecraft 26.1.2)",
+      "description": "Coral Running Minecraft 26.1.2 (Fabric v0.19.3)",
+      "icon": null,
+      "version": "1.0.0",
+      "address": "localhost:25565",
+      "minecraftVersion": "26.1.2",
+      "discord": {
+        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      },
+      "mainServer": false,
+      "autoconnect": false,
+      "modules": [
+        {
+          "id": "net.fabricmc:fabric-loader:0.19.3",
+          "name": "Fabric (fabric-loader)",
+          "type": "Fabric",
+          "artifact": {
+            "size": 1976502,
+            "MD5": "881e0e9f53a11b9ad468b47afd678bfd",
+            "url": "http://localhost:8080/repo/lib/net/fabricmc/fabric-loader/0.19.3/fabric-loader-0.19.3.jar"
+          },
+          "subModules": [
+            {
+              "id": "26.1.2-fabric-0.19.3",
+              "name": "Fabric (version.json)",
+              "type": "VersionManifest",
+              "artifact": {
+                "size": 2782,
+                "MD5": "291eee8d576797e9cdcc5b3254434e82",
+                "url": "http://localhost:8080/repo/versions/26.1.2-fabric-0.19.3/26.1.2-fabric-0.19.3.json"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm:9.10.1",
+              "name": "Fabric (asm)",
+              "type": "Library",
+              "artifact": {
+                "size": 126151,
+                "MD5": "9cb72080438acf27f2607002e1444a7b",
+                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm/9.10.1/asm-9.10.1.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-analysis:9.10.1",
+              "name": "Fabric (asm-analysis)",
+              "type": "Library",
+              "artifact": {
+                "size": 35140,
+                "MD5": "6dd9011ec87f65e4b2e14e938c4118e4",
+                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm-analysis/9.10.1/asm-analysis-9.10.1.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-commons:9.10.1",
+              "name": "Fabric (asm-commons)",
+              "type": "Library",
+              "artifact": {
+                "size": 74840,
+                "MD5": "8eee0b1bdd046baf472eb83dd5e6bb44",
+                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm-commons/9.10.1/asm-commons-9.10.1.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-tree:9.10.1",
+              "name": "Fabric (asm-tree)",
+              "type": "Library",
+              "artifact": {
+                "size": 51958,
+                "MD5": "62541e1dc62331408ef31317555bf4fa",
+                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm-tree/9.10.1/asm-tree-9.10.1.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-util:9.10.1",
+              "name": "Fabric (asm-util)",
+              "type": "Library",
+              "artifact": {
+                "size": 95628,
+                "MD5": "d0892ecb209867805e7d2418e5dc6c42",
+                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm-util/9.10.1/asm-util-9.10.1.jar"
+              }
+            },
+            {
+              "id": "net.fabricmc:sponge-mixin:0.17.3+mixin.0.8.7",
+              "name": "Fabric (sponge-mixin)",
+              "type": "Library",
+              "artifact": {
+                "size": 1540060,
+                "MD5": "87002a5fc9faa1543bf4204f8d5876fb",
+                "url": "http://localhost:8080/repo/lib/net/fabricmc/sponge-mixin/0.17.3+mixin.0.8.7/sponge-mixin-0.17.3+mixin.0.8.7.jar"
+              }
+            }
+          ]
+        },
+        {
+          "id": "generated.fabricmod:fabric-api:0.151.0+26.1.2@jar",
+          "name": "Fabric API",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2498064,
+            "url": "http://localhost:8080/servers/Coral-26.1.2/fabricmods/required/fabric-api-0.151.0+26.1.2.jar",
+            "MD5": "f0375f3f40da9ad359cb72eb2304d41e"
+          }
+        },
+        {
+          "id": "generated.fabricmod:iris:1.10.9+mc26.1.1@jar",
+          "name": "Iris",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2803860,
+            "url": "http://localhost:8080/servers/Coral-26.1.2/fabricmods/required/iris-fabric-1.10.9+mc26.1.1.jar",
+            "MD5": "0037a947d04dd252c4348c16d271c6b2"
+          }
+        },
+        {
+          "id": "net.caffeinemc.mods:sodium:0.8.12+mc26.1.2@jar",
+          "name": "Sodium",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1844226,
+            "url": "http://localhost:8080/servers/Coral-26.1.2/fabricmods/required/sodium-fabric-0.8.12+mc26.1.2.jar",
+            "MD5": "0e23e1fa43b2b2ce7c8b7bb8e0bc0e54"
+          }
+        }
+      ]
+    }
+  ]
+}
