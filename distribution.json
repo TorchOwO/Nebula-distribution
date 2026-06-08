@@ -1,10 +1,10 @@
 {
   "version": "1.0.0",
-  "rss": "<LINK TO RSS FEED>",
+  "rss": "",
   "discord": {
-    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    "clientId": "",
+    "smallImageText": "",
+    "smallImageKey": ""
   },
   "servers": [
     {
@@ -16,9 +16,9 @@
       "address": "localhost:25565",
       "minecraftVersion": "26.1.2",
       "discord": {
-        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+        "shortId": "",
+        "largeImageText": "",
+        "largeImageKey": ""
       },
       "mainServer": false,
       "autoconnect": false,
