@@ -1,2 +1,0 @@
-narrator:0
-narratorHotKey:false
