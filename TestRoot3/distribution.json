@@ -11,7 +11,7 @@
       "id": "Coral-26.1.2",
       "name": "Coral (Minecraft 26.1.2)",
       "description": "Coral Running Minecraft 26.1.2 (Fabric v0.19.3)",
-      "icon": null,
+      "icon": "null",
       "version": "1.0.0",
       "address": "14.75.191.176:25565",
       "minecraftVersion": "26.1.2",
