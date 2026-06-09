@@ -5,7 +5,7 @@
     "name": "Coral (Minecraft 26.1.2)",
     "description": "Coral Running Minecraft 26.1.2 (Fabric v0.19.3)",
     "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
-    "address": "localhost:25565",
+    "address": "14.75.191.176:25565",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
