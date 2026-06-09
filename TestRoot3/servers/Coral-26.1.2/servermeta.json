@@ -12,7 +12,11 @@
       "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
     },
     "mainServer": false,
-    "autoconnect": false
+    "autoconnect": false,
+    "javaOptions": {
+      "supported": ">=25 <26",
+      "suggestedMajor": 25
+    }
   },
   "fabric": {
     "version": "0.19.3"
