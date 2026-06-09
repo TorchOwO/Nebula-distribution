@@ -1,5 +1,5 @@
 {
-  "$schema": "file:///D:/TestRoot3/schemas/ServerMetaSchema.schema.json",
+  "$schema": "https://github.com/TorchOwO/Nebula-distribution/raw/refs/heads/main/TestRoot3/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.0",
     "name": "Coral (Minecraft 26.1.2)",
