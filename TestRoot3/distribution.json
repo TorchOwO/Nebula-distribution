@@ -149,17 +149,6 @@
             "path": "shaderpacks/ComplementaryReimagined-main.zip",
             "url": "https://github.com/TorchOwO/Nebula-distribution/raw/refs/heads/main/TestRoot3/servers/Coral-26.1.2/files/shaderpacks/ComplementaryReimagined-main.zip"
           }
-        },
-        {
-          "id": "options.txt",
-          "name": "options.txt",
-          "type": "File",
-          "artifact": {
-            "size": 32,
-            "MD5": "806d565f4416a42b9e4e83b5cb55dcda",
-            "path": "options.txt",
-            "url": "https://github.com/TorchOwO/Nebula-distribution/raw/refs/heads/main/TestRoot3/servers/Coral-26.1.2/files/options.txt"
-          }
         }
       ]
     }
